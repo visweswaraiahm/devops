@@ -1,4 +1,3 @@
-user credentials git config --global user.email "vishuvishwa034@gmail.com"
 user credentials git config --global user.name "vishwa"
 to clone   git clone 'copy the url'
 cd devopsl
@@ -12,3 +11,8 @@ to find branches       git branch
 to add from staging to local       git add .
 to commot files     git commit -m "added new file"
 to push from local to central      git push origin 'branchname'
+
+ghjdgf
+fjefh
+sfksgfj
+asfag
