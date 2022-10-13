@@ -1,0 +1,14 @@
+user credentials git config --global user.email "vishuvishwa034@gmail.com"
+user credentials git config --global user.name "vishwa"
+to clone   git clone 'copy the url'
+cd devopsl
+to create feature branch  git checkout -b 'feature/branch name'
+to create empty files    touch 'filename.txt' 
+to edit files   vi 'filename'
+to edit again  i(to type)
+to save file   press esc and shift+semicolan and enter
+to seee file status    git status
+to find branches       git branch
+to add from staging to local       git add .
+to commot files     git commit -m "added new file"
+to push from local to central      git push origin 'branchname'
